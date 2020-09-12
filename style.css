@@ -36,6 +36,14 @@ nav::after {
   *zoom: 1;
 }
 
+
+.search-txt{
+  border: none;
+  background: none;
+  outline: none;
+  
+}
+
 form:valid input[type="text"] {
   width: 400px;
   height: 30px;
